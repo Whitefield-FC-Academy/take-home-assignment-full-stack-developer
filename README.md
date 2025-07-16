@@ -55,7 +55,7 @@ We need a system where coaches can:
 - Dashboard showing upcoming session count and stats
 - Dockerize the entire project  
   → The system should work with a single command:  
-  docker-compose up --build -p 3000:3000
+  docker-compose up --build
 
 ---
 
