@@ -14,7 +14,7 @@ Every player books a training plan with a fixed number of regular sessions (e.g.
 We need a system where coaches can:
 - Log in and see only the sessions and players for their assigned age group.
 - Mark player attendance (regular or complimentary).
-- Take a photo of the player during attendance (camera or upload).
+- Take a group photo of the players during attendance (only camera).
 - Track how many sessions each player has attended, and how many complimentary sessions are used.
 
 ---
@@ -66,7 +66,7 @@ We need a system where coaches can:
 
 ## 📆 Time Estimate
 
-We expect the core version to take **6–12 hours** spread across a few days. Don’t worry if it’s not perfect—focus on clean code, good architecture, and problem-solving.
+We expect the core version to take **24–48 hours** spread across a few days. Don’t worry if it’s not perfect—focus on clean code, good architecture, and problem-solving.
 
 ---
 
